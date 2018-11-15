@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraDiagram.CustomDraw/Form1.cs) (VB: [Form1.vb](./VB/XtraDiagram.CustomDraw/Form1.vb))
+* [Program.cs](./CS/XtraDiagram.CustomDraw/Program.cs) (VB: [Program.vb](./VB/XtraDiagram.CustomDraw/Program.vb))
+<!-- default file list end -->
 # How to use the CustomDrawItem event to draw custom icons inside diagram items
 
 
